@@ -1,6 +1,6 @@
 # IMDB Recommender System
 
-A recommender system was constructed using the IMDB dataset, serving two primary tasks: Rating Prediction and Would Watch Prediction. The system achieved a mean square error of 3.6 for rating prediction and an accuracy of 78.0% for would watch prediction.
+A recommender system was constructed using the IMDB dataset, serving two primary tasks: Rating Prediction and Would Watch Prediction. The system achieved a mean square error of **3.6** for rating prediction and an accuracy of **78.0%** for would watch prediction.
 
 ## Rating Prediction
 
